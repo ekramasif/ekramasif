@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramasif&label=Profile%20views&color=0e75b6&style=flat" alt="ekramasif" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/ekram_asif" target="blank"><img src="https://img.shields.io/twitter/follow/ekram_asib?logo=twitter&style=for-the-badge" alt="ekram_asib" /></a> </p>
 
 - 🌱 I’m currently learning **React & mongodb**
 
