@@ -18,6 +18,6 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-    <img alt="Ekram's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ekramasif&theme=monokai-metallian&hide_border=true"/>
+    <img alt="Ekram's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ekramasif&theme=vue-dark/>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
