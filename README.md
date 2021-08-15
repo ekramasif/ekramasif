@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Ekram Uddin</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F73F1D&lines=Full+Stack+Web+Developer;AI+%7C%7C+ML+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramasif&label=Profile%20views&color=0e75b6&style=flat" alt="ekramasif" /> </p>
 
 
