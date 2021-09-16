@@ -10,7 +10,7 @@
 <hr/>
 
 <samp>
-I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+I am a creative🎡, time punctual, dedicated🎯, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention to detail.
 </samp>
 
 
@@ -18,7 +18,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-    <img alt="Ekram's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ekramasif&theme=vue-dark"/>
+    <img alt="Ekram's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ekramasif&theme=none"/>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
