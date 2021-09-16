@@ -3,6 +3,11 @@
  <a href="https://github.com/ekramasif/ekramasif/"> </a>
 <br/>
 
+<p align="center">
+  <a href="https://github.com/ekramasif">
+    <img align="center" src="coder.gif" width="300">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full+Stack+Web+Developer;AI+%7C%7C+ML+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=380&height=45">
