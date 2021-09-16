@@ -57,10 +57,10 @@ I am a creative🎡, time punctual, dedicated🎯, goal-oriented individual with
 ### 🗄️ Databases and cloud hosting
 
 <p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
 </p>
 
@@ -85,8 +85,8 @@ I am a creative🎡, time punctual, dedicated🎯, goal-oriented individual with
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ekramasif&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekramasif&langs_count=8&layout=compact&theme=vue-dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ekramasif&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Yashita's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekramasif&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
