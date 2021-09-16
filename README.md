@@ -85,7 +85,7 @@ I am a creative🎡, time punctual, dedicated🎯, goal-oriented individual with
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <img alt="Ekram's's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ekramasif&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Ekram's's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekramasif&layout=compact&theme=dark&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="Ekram's's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekramasif&layout=compact&langs_count=8&theme=dark&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
