@@ -22,7 +22,7 @@ I am a creative🎡, time punctual, dedicated🎯, goal-oriented individual with
 ## 🔥 Streak stats
 
 <p align="center">
-    <img alt="Ekram's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ekramasif&theme=dark"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ekramasif&theme=tokyonight_duo&hide_border=true" alt="ekramasif" />
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
