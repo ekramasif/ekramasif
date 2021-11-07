@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm <a href="https://ekramasif.github.io/" color="white" target="_blank">Ekram Asif</a></h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="ekramasif"> I'm <a href="https://ekramasif.github.io/" color="white" target="_blank">Ekram Asif</a></h1>
  <img src="https://gpvc.arturio.dev/ekramasif" alt="Profile views" align='right'/> 
  <a href="https://github.com/ekramasif/ekramasif/"> </a>
 <br/>
@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full+Stack+Web+Developer;AI+%7C%7C+ML+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full+Stack+Web+Developer;AI+%7C%7C+ML+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=380&height=45" alt="ekramasif">
 </p>
 <hr/>
 
 <samp>
-I am a creative🎡, time punctual, dedicated🎯, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills👐, strong organizational skills👮‍♀, and meticulous attention to detail.
+I am a creative🎡, time punctual, dedicated🎯, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills👐, strong organizational skills👮‍, and meticulous attention to detail.
 </samp>
 
 
