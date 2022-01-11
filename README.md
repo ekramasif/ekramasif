@@ -102,7 +102,9 @@ I am a creative🎡, time punctual, dedicated🎯, goal-oriented individual with
   <br/>
 </details>
 <!-- Connect -->
+
 ## 🙋 Let's Connect
+
 <p align="center">
 	<a href="https://ekramasif.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/ekramasif" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
