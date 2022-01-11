@@ -101,7 +101,6 @@ I am a creative🎡, time punctual, dedicated🎯, goal-oriented individual with
    <img alt="Ekram's's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ekramasif&custom_title=ekramasif's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   <br/>
 </details>
-
 <!-- Connect -->
 ## 🙋 Let's Connect
 <p align="center">
@@ -111,4 +110,9 @@ I am a creative🎡, time punctual, dedicated🎯, goal-oriented individual with
 	<a href="https://www.facebook.com/ekram.asif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/ekram_asif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:mdekramuddin23@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
+<p align="center">
+  <a href="https://ekramasif.me">
+    <img align="center" src="EkramAsif.gif" width="25%">
+  </a>
 </p>
