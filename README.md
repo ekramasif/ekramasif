@@ -29,7 +29,11 @@ I am a creative🎡, time punctual🕒, dedicated🎯, goal-oriented✔️, indi
 
 ## 🛠️ My Favorite Tools
 
+<details>
+	<summary>🛠️ My Favorite Tools</summary>
+
 ### 👨‍💻 Programming Languages
+
 
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
@@ -44,6 +48,7 @@ I am a creative🎡, time punctual🕒, dedicated🎯, goal-oriented✔️, indi
 
 
 ### 🧰 Frameworks and Libraries
+
 
 <p>
     <a href="#"><img alt="Tensorflow" src="https://badges.aleen42.com/src/tensorflow.svg"></a>
@@ -81,6 +86,7 @@ I am a creative🎡, time punctual🕒, dedicated🎯, goal-oriented✔️, indi
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+</details>
 
 ## 📊 Github Stats
 
@@ -110,9 +116,4 @@ I am a creative🎡, time punctual🕒, dedicated🎯, goal-oriented✔️, indi
 	<a href="https://www.facebook.com/ekram.asif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/ekram_asif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:mdekramuddin23@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-</p>
-<p align="center">
-  <a href="https://ekramasif.me">
-    <img align="center" src="EkramAsif.gif" width="25%">
-  </a>
 </p>
