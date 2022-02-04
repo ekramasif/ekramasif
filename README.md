@@ -27,7 +27,7 @@ I am a creative🎡, time punctual🕒, dedicated🎯, goal-oriented✔️, indi
 </p>
 
 
-## 🛠️ My Favorite Tools
+## 🛠️🔧 Tools
 
 <details>
 	<summary>🛠️ My Favorite Tools</summary>
