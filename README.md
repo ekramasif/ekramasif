@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=AI+%7C%7C+ML+%7C%7C+DL+Enthusiastic;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=380&height=45" alt="ekramasif">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=AI+%7C%7C+ML+%7C%7C+DL+Enthusiastic&center=true&width=380&height=45" alt="ekramasif">
 </p>
 <hr/>
 
