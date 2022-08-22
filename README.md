@@ -19,6 +19,8 @@ I am a creative🎡, time punctual🕒, dedicated🎯, goal-oriented✔️, indi
 
 <p align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ekramasif&theme=tokyonight_duo&hide_border=true" alt="ekramasif" />
+	<br/>
+  	<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekramasif&theme=github_dark&hide_border=true" />
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
