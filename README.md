@@ -1,13 +1,17 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="ekramasif"> I'm <a href="https://ekramasif.github.io/" color="white" target="_blank">Ekram Asif</a></h1>
- <img src="https://gpvc.arturio.dev/ekramasif" alt="Profile views" align='right'/> 
- <a href="https://github.com/ekramasif/ekramasif/"> </a>
-<br/>
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=AI+%7C%7C+ML+%7C%7C+DL+Enthusiastic&center=true&width=380&height=45" alt="ekramasif">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Focus-Reserch-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Chattogram-success" />
+  <img src="https://img.shields.io/github/followers/ekramasif.svg?style=social&label=Followers" />
+  <img src="https://gpvc.arturio.dev/ekramasif" alt="Profile views of ekramasif"/> 
+</p>
+<br/>
+
+
 <hr/>
 
 <samp>
