@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=AI+%7C%7C+ML+%7C%7C+DL+Enthusiastic&center=true&width=380&height=45" alt="ekramasif">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Lives-Chattogram-success" />
   <img src="https://img.shields.io/github/followers/ekramasif.svg?style=social&label=Followers" />
   <img src="https://gpvc.arturio.dev/ekramasif" alt="Profile views of ekramasif"/> 
 </p>
