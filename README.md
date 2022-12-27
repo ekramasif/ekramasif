@@ -1,6 +1,6 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="ekramasif"> I'm <a href="https://ekramasif.github.io/" color="white" target="_blank">Ekram Asif</a></h1>
+<p align="center"><a href="#"><img width="100%" height="auto" src="https://github.com/ekramasif/ekramasif/blob/main/Banner.png" alt="ekramasif"/></a></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=AI+%7C%7C+ML+%7C%7C+DL+Enthusiastic&center=true&width=380&height=45" alt="ekramasif">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Hey,+There!;I+am+Md+Ekram+Uddin;Computer+Science+Engineering+Undergrad&center=true&width=380&height=45" alt="ekramasif">
 </p>
 
 <p align="center">
