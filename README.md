@@ -111,7 +111,7 @@
 	<a href="mailto:mdekramuddin23@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Ekram Asif's Gmail"/></a>
 	<a href="https://ekramasif.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Ekram Asif's Portfolio"/></a>
 	<a href="https://github.com/ekramasif" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="Ekram Asif's GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ekramasif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Ekram Asif's LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/md-ekram-uddin/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="Ekram Asif's LinkedIn"/></a>
 	<a href="https://www.instagram.com/ekram_asif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Ekram Asif's Instagram"/></a>
 	
 </p>
