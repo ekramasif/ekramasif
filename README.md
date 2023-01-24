@@ -86,7 +86,7 @@
 </p>
 </details>
 
-## 📊 Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" align=center> Github Stats
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
