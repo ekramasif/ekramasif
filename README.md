@@ -5,7 +5,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ekramasif.svg?style=social&label=Followers" />
-  ![](https://komarev.com/ghpvc/?username=ekramasif&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=ekramasif&style=plastic" />
+  
 </p>
 <br/>
 
