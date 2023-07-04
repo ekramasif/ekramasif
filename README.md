@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/ekramasif.svg?style=social&label=Followers" />
-  <img src="https://gpvc.arturio.dev/ekramasif" alt="Profile views of ekramasif"/> 
+  ![](https://komarev.com/ghpvc/?username=ekramasif&style=flat-square)
 </p>
 <br/>
 
