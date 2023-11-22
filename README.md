@@ -1,4 +1,3 @@
-<p align="center"><a href="#"><img width="100%" height="auto" src="https://github.com/ekramasif/ekramasif/blob/main/bannertop.gif" alt="ekramasif"/></a></p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Hey,+There!;I+am+Md+Ekram+Uddin;Computer+Science+Engineering+Undergrad&center=true&width=500&height=45" alt="ekramasif">
 </p>
