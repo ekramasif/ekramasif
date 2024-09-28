@@ -101,7 +101,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
-[![Ekramasif's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ekramasif&custom_title=EkramAsif's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ekramasif)
+[![Ekramasif's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ekramasif&custom_title=EkramAsif's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ekramasif)
 
 
   <br/>
