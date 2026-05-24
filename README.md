@@ -1,57 +1,139 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=220&section=header&text=Md%20Ekram%20Uddin&fontSize=50&animation=fadeIn&fontAlignY=38" alt="Md Ekram Uddin Asif - Full Stack AI & SaaS Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=180&section=header&text=Md%20Ekram%20Uddin&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Senior%20Software%20Engineer%20%7C%20Frontend%20Team%20Lead%20%7C%20Founder%20of%20Keeps.one&descSize=16&descAlignY=68" />
+</p>
+
+<h3 align="center">
+  Senior Software Engineer • Frontend Team Lead • SaaS & AI Product Builder
+</h3>
+
+<p align="center">
+  Building scalable SaaS platforms, premium frontend systems, reliable backend architecture, and practical AI-powered workflows.
 </p>
 
 <p align="center">
-  <b>Full-Stack Engineer • Founder of <a href="https://keeps.one">Keeps.one</a> • AI Solutions Architect</b><br>
-  <i>Building Scalable SaaS Platforms, Autonomous AI Agents, and High-Performance Backends</i>
+  <a href="https://keeps.one">
+    <img src="https://img.shields.io/badge/Founder-Keeps.one-0ea5e9?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ekram-asif/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ekram%20Asif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mdekramuddin23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+I am a **product-minded Senior Software Engineer** with **5+ years of experience** designing, building, and shipping production-grade software systems.
+
+My work focuses on creating clean backend foundations, polished user interfaces, scalable SaaS products, and AI-powered workflows that solve real business problems.
+
+I enjoy working at the intersection of **engineering, product thinking, system architecture, and automation**.
+
+---
+
+## Core Expertise
+
+- Backend architecture for SaaS and business applications
+- Scalable frontend systems using React, Next.js, and TypeScript
+- Multi-tenant application design
+- AI automation, agents, and RAG-based workflows
+- Clean UI implementation with strong product sense
+- Founder-level ownership from idea to production
+
+---
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>NestJS, FastAPI, Laravel, Node.js, PostgreSQL, MySQL, MongoDB, Redis, Prisma, TypeORM</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React.js, Next.js, Vite, TypeScript, Redux, TailwindCSS, Vue.js, HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td><b>AI & Automation</b></td>
+    <td>AI Agents, MCP, LangChain, RAG Pipelines, OpenAI, Gemini, PGVector</td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td>AWS, DigitalOcean, Docker, GitHub Actions, CI/CD, Linux</td>
+  </tr>
+</table>
+
+---
+
+## Featured Projects
+
+### Keeps.one  
+**Privacy-first professional resume platform**
+
+Founder of Keeps.one, a precision-focused resume platform built with a custom design system approach.
+
+Key highlights:
+
+- 14 bespoke ATS-optimized resume templates
+- Watermark-free PDF export
+- Selectable text parsing
+- Clean, premium resume-building experience
+
+🔗 [Visit Keeps.one](https://keeps.one)
+
+---
+
+
+
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ekramasif&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ekramasif&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-SaaS%20%2B%20AI%20Agents-1AF761?style=flat-square" alt="SaaS and AI Focus" />
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20NestJS%20%7C%20Node.js-blue?style=flat-square" alt="Backend Expertise" />
-  <img src="https://img.shields.io/badge/Frontend-Next.js%20%7C%20React%20%7C%20Vite-orange?style=flat-square" alt="Frontend Expertise" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekramasif&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 🚀 Professional Profile
+## Professional Focus
 
-I am a **Product-Minded Full-Stack Engineer** based in Dhaka, with **5+ years of experience** building high-throughput applications. I specialize in the intersection of **scalable SaaS architecture** and **AI-driven automation**.
+I collaborate with founders, startups, and product teams to turn complex ideas into stable, scalable, and maintainable software.
 
-- 🏗️ **Core Philosophy**: Designing for zero-downtime, maintainable codebases, and seamless user experiences.
-- 🤖 **AI Innovation**: Advanced implementation of **AI Agents**, **MCP (Model Context Protocol)**, and **RAG** pipelines.
-- 📈 **Track Record**: Successfully shipped **100+ products**, ranging from B2B travel engines to complex SaaS ecosystems.
+My approach is simple:
 
----
-
-### 🛠️ Technical Ecosystem
-
-| **Category** | **Technologies & Tools** |
-| :--- | :--- |
-| **Backend & Architecture** | **NestJS**, **FastAPI**, **Laravel**, **Node.js**, PostgreSQL, MySQL, MongoDB, Redis, **Prisma**, **TypeORM** |
-| **Frontend & UI** | **React.js**, **Next.js**, **Vite**, TypeScript, Redux, TailwindCSS, Vue.js, HTML5/CSS3 |
-| **AI & Automation** | **AI Agents**, **MCP (Model Context Protocol)**, LangChain, RAG, Gemini Pro, OpenAI, PGVector |
-| **DevOps & Cloud** | AWS, DigitalOcean, Docker, CI/CD Pipelines, GitHub Actions, Linux |
+> Build with clarity. Ship with purpose. Scale with discipline.
 
 ---
 
-### 📊 Impact Metrics
+## Connect With Me
+
+<p>
+  <a href="mailto:mdekramuddin23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mdekramuddin23%40gmail.com-ef4444?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ekram-asif/">
+    <img src="https://img.shields.io/badge/LinkedIn-/in/ekram--asif-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://ekramasif.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-ekramasif.github.io-111827?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ekramasif&theme=tokyonight_duo&hide_border=true" width="48%" alt="Coding Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ekramasif&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-</p>
-
----
-
-### 🤝 Strategic Collaboration
-I specialize in helping founders build **SaaS products from 0 to 1** and implementing **AI Strategies** that drive efficiency.
-
-- 📩 **Direct:** [mdekramuddin23@gmail.com](mailto:mdekramuddin23@gmail.com)
-- 💼 **LinkedIn:** [Md Ekram Uddin](https://www.linkedin.com/in/ekram-asif/)
-- 🌍 **Visit Me:** [Ekram's Space](https://ekramasif.github.io)
-
-<p align="right">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=60&section=footer" width="100%" />
+  <i>Engineering reliable products, premium interfaces, and practical AI systems.</i>
 </p>
