@@ -127,8 +127,8 @@ My approach is simple:
 </p>
 
 <p>
-  <a href="https://ekramasif.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-ekramasif.github.io-111827?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://ekramasif.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-ekramasif.vercel.app-111827?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
